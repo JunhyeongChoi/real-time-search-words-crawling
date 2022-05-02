@@ -6,7 +6,9 @@
 <br><br>
 
 ## Installation
+```
 pip install requests_html
+```
 <br><br>
 
 ## Output example
