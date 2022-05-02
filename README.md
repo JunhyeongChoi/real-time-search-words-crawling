@@ -9,5 +9,5 @@
 pip install requests_html
 <br><br>
 
-## Result
+## Output Example
 ![result](https://user-images.githubusercontent.com/103200144/166218577-13484f6a-6514-42a1-8dea-7f512c7ee37e.png)
