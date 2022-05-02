@@ -1,7 +1,7 @@
 # 실시간 검색어 크롤링 (signal.bz)
 
 ## Description
-실시간 검색어 1위부터 10위까지 출력
+실시간 검색어 1위부터 10위까지 크롤링해와 출력<br>
 (출처 : https://signal.bz/)
 
 ## Installation
