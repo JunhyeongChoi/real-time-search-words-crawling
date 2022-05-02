@@ -1,5 +1,5 @@
 # 실시간 검색어 크롤링 (signal.bz)
-<hr>
+
 ## Installation
 pip install requests_html
 
